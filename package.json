@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "parcel": "^2.10.0"
+    "gsap": "^3.12.2",
+    "parcel": "^2.10.0",
+    "shader-park-core": "^0.2.6"
   }
 }
